@@ -7,7 +7,7 @@ features[field][] = "node-reservations_reservation-field_project_id"
 name = "MNN Reservations Import"
 
 package = "MNN Community Media Advanced"
-version = "7.x-1.2"
+version = "7.x-1.3"
 core = "7.x"
 project = "mnn_reservations_import"
 project_status_url = https://github.com/cm-advanced/mnn_reservations_import
